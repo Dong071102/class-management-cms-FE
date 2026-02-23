@@ -118,8 +118,3 @@ src/
 - **Tên**: Vũ Bá Đông  
 - 📩 Email: [vubadong071102@gmail.com](mailto:vubadong071102@gmail.com)
 
----
-
-## 📄 License
-
-MIT License
