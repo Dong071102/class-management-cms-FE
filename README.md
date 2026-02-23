@@ -115,6 +115,33 @@ src/
 
 ## 📧 Tác giả
 
+## 📷 Hình ảnh (Screenshots)
+- **Screenshot 1**  
+	![CMS 3](Screenshot/cms3.png)  
+	Caption: Trang đăng nhập ứng dụng
+
+- **Screenshot 2**  
+	![UI Layout](Screenshot/73%20-%20UI%20Layout.mp4-00_01_14.050.png)  
+	Caption: Giao diện bố cục chính của ứng dụng.
+- **Screenshot 3**  
+	![CMS 9](Screenshot/cms9.png)  
+	Caption: Trang thống kê tỉ lệ đi học của sinh viên.
+- **Screenshot 4**  
+	![CMS 2](Screenshot/cms2.png)  
+	Caption: Luồng hoạt động chức năng điểm danh khuôn mặt.
+
+
+
+- **Screenshot 5**  
+	![CMS 7](Screenshot/cms7.png)  
+	Caption: Trang quản lý các phiên điểm danh.
+
+- **Screenshot 6**  
+	![CMS 8](Screenshot/cms8.png)  
+	Caption: Trang giám sát và thống kê số lượng sinh viên theo thời giant thực.
+
+
+
 - **Tên**: Vũ Bá Đông  
 - 📩 Email: [vubadong071102@gmail.com](mailto:vubadong071102@gmail.com)
 
